@@ -22,48 +22,39 @@ You are required to model the demand for shared bikes with the available indepen
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Issues to Address:
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Revenue Decline: BoomBikes faces substantial revenue declines due to the ongoing pandemic, necessitating a strategic solution.
+Market Sustainability: The company struggles to sustain itself in the current market scenario, demanding a mindful business plan.
+Post-Lockdown Strategy: BoomBikes aims to accelerate revenue post-lockdown, requiring an understanding of post-quarantine bike demand.
+Objectives: The objectives include predicting significant variables influencing American market shared bike demand, determining the crucial predictors, developing a model to understand demand variations, facilitating adaptive business strategies, and exploring demand dynamics for effective decision-making. This case study aims to achieve this goal by building a multivariate linear regression model using the provided dataset.
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The primary objective is to identify the key variables that significantly influence the prediction of shared bike demand and assess how effectively these variables describe the patterns in bike demands.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - version 2.2.3
+- seaborn - version 0.13.2
+- matplotlib - version 3.9.2
+- statsmodels - version 0.14.4
+- scikit-learn - version 1.5.2
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- UpGrad tutorials on Linear Regression on the learning platform
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+
